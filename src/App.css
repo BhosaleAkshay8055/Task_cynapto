@@ -1,0 +1,19 @@
+.button {
+    margin-top: 5px;
+    padding-top: 10px;
+}
+.button-style {
+  width: 130px;
+  height: 40px;
+} 
+.search-field {
+    width: 300px;
+    padding: 0;
+    margin: 0;
+    border-radius: 10%;
+}
+.button-style-2 {
+  width: 160px;
+  height: 50px;
+
+}

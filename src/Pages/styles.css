@@ -1,0 +1,22 @@
+.scrollbar-custom {
+    height: calc(100% - 50px); /* Adjust height to accommodate bottom content */
+    overflow-y: scroll;
+  }
+  
+  /* Style the scrollbar */
+  .scrollbar-custom::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb {
+    background: #555;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+    background: #333;
+  }
+  
